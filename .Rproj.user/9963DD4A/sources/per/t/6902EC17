@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585161751894.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1501202208",
+    "id" : "6902EC17",
+    "lastKnownWriteTime" : 1585522674,
+    "last_content_update" : 1585522674313,
+    "path" : "F:/G2/R-program/RPackge/VectorTools/R/Vectortools.R",
+    "project_path" : "R/Vectortools.R",
+    "properties" : {
+        "cursorPosition" : "91,0",
+        "scrollLine" : "76"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
