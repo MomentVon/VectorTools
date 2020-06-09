@@ -4,16 +4,18 @@
 \alias{fctPiecewiseFunction}
 \title{function for a 2 Piecewise}
 \usage{
-fctPiecewiseFunction(fct1, fct2, Vectorr, judge)
+fctPiecewiseFunction(fct1, fct2, Vectorr, judge, ...)
 }
 \arguments{
-\item{fct1}{Function, first function}
+\item{fct1}{Function, first function, x <= judge}
 
-\item{fct2}{Function, second function}
+\item{fct2}{Function, second function, x > judge}
 
 \item{Vectorr}{Vector, input(x)}
 
 \item{judge}{numic, judge wert}
+
+\item{...}{other parameters'}
 }
 \value{
 Result output(y)

@@ -5,6 +5,9 @@ Version: 0.1.0
 Author: Kan Lei
 Maintainer: Kan Lei <mr_moment@outlook.com>
 Description: The package is a collection for some min, max, mean and so on Function in a Vector Form.
+Imports:
+    stats,
+    purrr
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

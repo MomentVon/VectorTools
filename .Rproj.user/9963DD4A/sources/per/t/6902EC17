@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1501202208",
+    "hash" : "1077323023",
     "id" : "6902EC17",
-    "lastKnownWriteTime" : 1585522674,
-    "last_content_update" : 1585522674313,
-    "path" : "F:/G2/R-program/RPackge/VectorTools/R/Vectortools.R",
+    "lastKnownWriteTime" : 1588672273,
+    "last_content_update" : 1588672273,
+    "path" : "F:/G2/R-program/R-Packge/VectorTools/R/Vectortools.R",
     "project_path" : "R/Vectortools.R",
     "properties" : {
-        "cursorPosition" : "91,0",
-        "scrollLine" : "76"
+        "cursorPosition" : "114,10",
+        "scrollLine" : "103"
     },
     "read_only" : false,
     "read_only_alternatives" : [
